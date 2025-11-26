@@ -66,13 +66,3 @@ This approach ensures that subtractive pairs are correctly interpreted in a sing
 ## 🛠️ Installation and Usage
 
 *(This section should be tailored based on your programming language and project structure.)*
-
-### Prerequisites
-
-* [Mention the required language/runtime, e.g., `Python 3`, `Java JDK`, `Go 1.20+`, etc.]
-
-### Cloning the Repository
-
-```bash
-git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)
-cd repo-name
