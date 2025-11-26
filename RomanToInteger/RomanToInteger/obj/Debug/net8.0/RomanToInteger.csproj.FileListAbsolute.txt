@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.exe
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.deps.json
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.runtimeconfig.json
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.dll
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\bin\Debug\net8.0\RomanToInteger.pdb
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.sourcelink.json
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.dll
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\obj\Debug\net8.0\refint\RomanToInteger.dll
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.pdb
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\obj\Debug\net8.0\RomanToInteger.genruntimeconfig.cache
+C:\Users\mathe\Desktop\Nova pasta\Nova pasta\matheus_git\AuthMax\MeuServicoDeAuth.Infrastructure\RomanToInteger\RomanToInteger\obj\Debug\net8.0\ref\RomanToInteger.dll
