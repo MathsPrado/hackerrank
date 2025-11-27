@@ -1,6 +1,6 @@
-# 💻 HackerRank Challenges Solutions (C# Focus)
+# 💻 Challenges Solutions (C# Focus)
 
-This repository serves as a personal portfolio and archive containing my solutions for various programming and data structure challenges sourced from the **HackerRank** platform.
+This repository serves as a personal portfolio and archive containing my solutions to various programming and data structure challenges, obtained from platforms such as **HackerRank** or **LeetCode**.
 
 All solutions are implemented using **C#**. This project demonstrates my proficiency in C# and the .NET framework, focusing on clean code, object-oriented design, and efficient algorithmic implementations.
 
