@@ -1,0 +1,14 @@
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\bin\Debug\net9.0\DuplicateRemoveArrat.exe
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\bin\Debug\net9.0\DuplicateRemoveArrat.deps.json
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\bin\Debug\net9.0\DuplicateRemoveArrat.runtimeconfig.json
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\bin\Debug\net9.0\DuplicateRemoveArrat.dll
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\bin\Debug\net9.0\DuplicateRemoveArrat.pdb
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\obj\Debug\net9.0\DuplicateRemoveArrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\obj\Debug\net9.0\DuplicateRemoveArrat.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\obj\Debug\net9.0\DuplicateRemoveArrat.AssemblyInfo.cs
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\obj\Debug\net9.0\DuplicateRemoveArrat.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\obj\Debug\net9.0\DuplicateRemoveArrat.dll
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\obj\Debug\net9.0\refint\DuplicateRemoveArrat.dll
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\obj\Debug\net9.0\DuplicateRemoveArrat.pdb
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\obj\Debug\net9.0\DuplicateRemoveArrat.genruntimeconfig.cache
+C:\Users\mathe\Desktop\MY PROJECTS\DuplicateRemoveArrat\DuplicateRemoveArrat\obj\Debug\net9.0\ref\DuplicateRemoveArrat.dll
